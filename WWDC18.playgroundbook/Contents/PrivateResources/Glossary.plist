@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>AR</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Getting%20to%20know%20my%20AR%20🌎</string>
+				<key>Title</key>
+				<string>Getting to know my AR 🌎</string>
+			</dict>
+			<key>Definition</key>
+			<string>Short for Augmented Reality, is the display of digital images or other information onto the real world.</string>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Getting%20to%20know%20my%20AR%20🌎</string>
+				<key>Title</key>
+				<string>Getting to know my AR 🌎</string>
+			</dict>
+			<key>Definition</key>
+			<string>A type that stores a series of characters such as &quot;hello, wwdc!&quot;</string>
+		</dict>
+		<key>pentatonics</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Getting%20to%20know%20my%20AR%20🌎</string>
+				<key>Title</key>
+				<string>Getting to know my AR 🌎</string>
+			</dict>
+			<key>Definition</key>
+			<string>A pentatonic scale is a musical scale or mode with five notes per octave, where each five notes are in harmony with the belonging chord.</string>
+		</dict>
+		<key>emoji</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Getting%20to%20know%20my%20AR%20🌎</string>
+				<key>Title</key>
+				<string>Getting to know my AR 🌎</string>
+			</dict>
+			<key>Definition</key>
+			<string>From Japanese (&quot;picture-character&quot;), are small pictures or icons used to express an idea or emotion. Examples are: 😀, 🌳 or ^^</string>
+		</dict>
+		<key>physicsWorld</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Getting%20to%20know%20my%20AR%20🌎</string>
+				<key>Title</key>
+				<string>Getting to know my AR 🌎</string>
+			</dict>
+			<key>Definition</key>
+			<string>A term used by Apple™, describing the physical environment of a scene. This includes e.g. gravity, collisions, etc.</string>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Let&apos;s%20play%20a%20game%20😄</string>
+				<key>Title</key>
+				<string>Let&apos;s play a game 😄</string>
+			</dict>
+			<key>Definition</key>
+			<string>A collection that stores an ordered list of items.</string>
+		</dict>
+		<key>setup</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Let&apos;s%20play%20a%20game%20😄</string>
+				<key>Title</key>
+				<string>Let&apos;s play a game 😄</string>
+			</dict>
+			<key>Definition</key>
+			<string>The setup of code or a computer program is the act of making the program ready for execution. This involves among others e.g. to set the initial values of an object.</string>
+		</dict>
+		<key>customize</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Let&apos;s%20play%20a%20game%20😄</string>
+				<key>Title</key>
+				<string>Let&apos;s play a game 😄</string>
+			</dict>
+			<key>Definition</key>
+			<string>Meaning you can add, remove or rearrange elements of the arrays however you want.</string>
+		</dict>
+		<key>Tic-Tac-Toe</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Dub%20Dub%20here%20we%20come.../Let&apos;s%20play%20a%20game%20😄</string>
+				<key>Title</key>
+				<string>Let&apos;s play a game 😄</string>
+			</dict>
+			<key>Definition</key>
+			<string>A game usually played on a piece of paper in which two players (&apos;X&apos; and &apos;O&apos;) place their character in a pattern of nine squares. It is won by the first player who places three Xs or three Os in a row.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
