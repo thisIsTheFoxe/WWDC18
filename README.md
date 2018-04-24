@@ -1,7 +1,7 @@
 # WWDC18 (ACCEPTED)
 This is my scholarship submission for  WWDC18  Hope you have fun playing and learning :)
 
-If you like clean and beautiful Swift-Code, I highly recommend that you don't worry about mine too much. Since we only had a few weeks of time and I did most coding late at night it partly really is aweful to look at. 
+If you like clean and beautiful Swift-Code, I highly recommend that you don't worry too much about mine. Since we only had a few weeks of time and I did most of the coding late at night it partly really is aweful to look at. 
 I tried to beautify it at least a bit, but I gave up, given the low capabilities of playgound-debugging.
 
 If you have any questions about anything just HMU..
